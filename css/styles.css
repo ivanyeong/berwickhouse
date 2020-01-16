@@ -1,0 +1,76 @@
+body, html {
+  height:100%;
+}
+
+.bg {
+  /* The image used */
+  background-image:url("../images/bird's eye 2.jpg");
+  /* Full height */
+  min-height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+
+
+#floor-plan {
+  /* The image used */
+  background-image:url("../images/berwick night.jpg");
+
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+
+
+.floor-plan .container {
+  opacity: 0.9;
+}
+
+.carousel-item{
+  margin-bottom: 25px;
+}
+
+.img{
+  border-width: 1px;
+}
+
+.img-thumbnail{
+  padding: 0;
+}
+
+/* icon description formatting */
+
+.title-icons{
+  font-size: 1.5rem;
+  color:white;
+}
+
+.icon{
+  padding-right: 1%;
+}
+
+.icon-label{
+  padding-right: 2%;
+}
+
+/* map section */
+.map-frame{
+  height: 300px;
+  width: inherit;
+  border-width: 0;
+}
+
+/* contact section */
+
+/*footer section*/
+#footer{
+  font-size: 10px;
+  font-weight: lighter;
+}
