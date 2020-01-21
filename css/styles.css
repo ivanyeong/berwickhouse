@@ -62,8 +62,8 @@ body, html {
 
 /* map section */
 .map-frame{
-  height: 300px;
-  width: inherit;
+  height: 220px;
+  width: 100%;
   border-width: 0;
 }
 
