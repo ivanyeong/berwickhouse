@@ -69,6 +69,11 @@ body, html {
 
 /* contact section */
 
+/* schools section */
+.table{
+  font-size: 0.8rem;
+}
+
 /*footer section*/
 #footer{
   font-size: 10px;
