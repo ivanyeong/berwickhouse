@@ -27,6 +27,13 @@ body, html {
   background-size:cover;
 }
 
+/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) {
+.table{
+  font-size: 0.7rem;
+}
+}
+
 
 
 .floor-plan .container {
@@ -68,11 +75,6 @@ body, html {
 }
 
 /* contact section */
-
-/* schools section */
-.table{
-  font-size: 0.8rem;
-}
 
 /*footer section*/
 #footer{
